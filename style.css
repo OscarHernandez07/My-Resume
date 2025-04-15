@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 2px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgb(0,0,0,0.1);
+}
+
+header { 
+    display: flex;
+    column-gap: 40%;
+    line-height: 10px;
+    div {
+    text-align: left;
+    }
+    padding-bottom: 1px;
+    margin-bottom: 2px;
+}
+
+
+
+
