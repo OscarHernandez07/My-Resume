@@ -25,6 +25,112 @@ header {
     margin-bottom: 2px;
 }
 
+.education {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    div {
+        line-height: 20px;
+    }
+}
 
+.education > div:last-child {
+    margin-top: 38px;
+}
+
+.awards {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.awards > div:last-child {
+    margin-top: 0px;
+    
+}
+
+.experience {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    div {
+        line-height: 25px;
+    }
+}
+
+.experience > div:last-child {
+    margin-top: 20px;
+}
+
+.curricular {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0px;
+}
+
+.curricular > div:last-child {
+    margin-left: 90px;
+    width: 24%;
+}
+
+
+
+
+
+.curricular h2 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.projects {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.projects h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.personal {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+p {
+    margin-top: 0px;
+}
+
+
+
+h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-top: 5px ;
+    margin-bottom: 5px;
+}
+
+ul {
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+.Languages h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 
 
